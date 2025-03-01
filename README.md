@@ -21,7 +21,7 @@ Avant d'installer le projet, assure-toi d'avoir les logiciels suivants :
 Clone le projet et installe les dépendances :
 ```bash
 # Cloner le dépôt
-git clone https://github.com/ton-repo/ReseauProject.git
+git clone https://github.com/25Abzo/ReseauProject.git
 cd ReseauProject
 
 # Créer un environnement virtuel
